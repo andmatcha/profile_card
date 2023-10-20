@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/andmatcha/profile_card/master/profile-summary-card-output/nightowl/4-productive-time.svg)
-```
-
-    
