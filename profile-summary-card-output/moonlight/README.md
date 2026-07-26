@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/andmatcha/profile_card/master/profile-summary-card-output/moonlight/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/andmatcha/profile_card/master/profile-summary-card-output/moonlight/4-productive-time.svg)
-```
-
-    
